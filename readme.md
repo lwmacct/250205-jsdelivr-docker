@@ -5,7 +5,7 @@
 
 
 
-代理使用
+# 代理使用
 - 代理地址: https://cdn.jsdelivr.net
 ```bash
 curl -fsSL https://cdn.jsdelivr.net/gh/lwmacct/250205-jsdelivr-docker@refs/heads/main/install.sh | DOWNLOAD_URL=https://mirrors.ustc.edu.cn/docker-ce bash;
